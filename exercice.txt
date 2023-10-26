@@ -1,0 +1,21 @@
+     google.com: https://www.bing.com 
+    duckduckgo.com:https://duckduckgo.com/
+    wolframalpha.com  https://www.wolframalpha.com/
+    bing.com:https://www.bing.com
+
+
+        google.com/q=bonjour,sourceid=chrome
+         duckduckgo.com/t=h_,q=boostrap,ia=web
+         wolframalpha.com/i=bonbon
+        bing.com/q=bing.com%3Ahttps%3A%2F%2Fwww.bing.com,ie=UTF-8,sourceid=chrome
+        baidu.com/ie=utf-8,f=8,rsv_bp=1,idx=1,tn=baidu,wd=bonjour,fenlei=256
+
+
+
+
+        google.com "q=bonjour"
+        duckduckgo.com "q=boostrap"
+         bing.com "q=bonjour"
+          wolframalpha.com "i=bonbon"
+          baidu.com "wd=bonjour"
+ 
